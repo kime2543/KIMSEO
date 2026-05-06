@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,48106,t=>{"use strict";var e=t.i(43476),a=t.i(51671);t.s(["default",0,function(){return(0,e.jsx)("div",{className:"mx-auto max-w-7xl",children:(0,e.jsx)(a.GalleryGrid,{category:"illustrations",categoryLabel:"일러스트"})})}])}]);
