@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,95498,e=>{"use strict";var t=e.i(48277),o=e.i(51671);e.s(["default",0,function(){return(0,t.jsx)("div",{className:"mx-auto max-w-7xl",children:(0,t.jsx)(o.GalleryGrid,{category:"webtoon",categoryLabel:"웹툰"})})}])}]);

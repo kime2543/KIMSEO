@@ -1,0 +1,16 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/works/layout,_N_T_/works/webtoon/layout,_N_T_/works/webtoon/page,_N_T_/works/webtoon"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/works/webtoon/__PAGE__",
+    "/works/webtoon",
+    "/works",
+    "/_index",
+    "/_head"
+  ]
+}

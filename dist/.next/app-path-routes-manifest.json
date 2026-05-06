@@ -1,0 +1,14 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/api/chat/route": "/api/chat",
+  "/api/status/route": "/api/status",
+  "/inquiry/page": "/inquiry",
+  "/page": "/",
+  "/profile/page": "/profile",
+  "/view/[id]/page": "/view/[id]",
+  "/works/illustrations/page": "/works/illustrations",
+  "/works/publishing/page": "/works/publishing",
+  "/works/samples/page": "/works/samples",
+  "/works/webtoon/page": "/works/webtoon"
+}
