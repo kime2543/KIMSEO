@@ -105,7 +105,7 @@
         "transform": "lodash/{{member}}"
       }
     },
-    "outputFileTracingRoot": "C:\\Users\\KUMA_LAB\\Downloads\\KIMSEO\\KIMSEO\\KIMSEO\\KIMSEO\\KIMSEO",
+    "outputFileTracingRoot": "C:\\Users\\KUMA_LAB\\Downloads\\KIMSEO\\KIMSEO\\KIMSEO\\KIMSEO\\KIMSEO\\KIMSEO",
     "cacheComponents": false,
     "cacheLife": {
       "default": {
@@ -305,11 +305,11 @@
     "bundlePagesRouterDependencies": false,
     "configFileName": "next.config.mjs",
     "turbopack": {
-      "root": "C:\\Users\\KUMA_LAB\\Downloads\\KIMSEO\\KIMSEO\\KIMSEO\\KIMSEO\\KIMSEO"
+      "root": "C:\\Users\\KUMA_LAB\\Downloads\\KIMSEO\\KIMSEO\\KIMSEO\\KIMSEO\\KIMSEO\\KIMSEO"
     },
     "distDirRoot": ".next"
   },
-  "appDir": "C:\\Users\\KUMA_LAB\\Downloads\\KIMSEO\\KIMSEO\\KIMSEO\\KIMSEO\\KIMSEO\\frontend",
+  "appDir": "C:\\Users\\KUMA_LAB\\Downloads\\KIMSEO\\KIMSEO\\KIMSEO\\KIMSEO\\KIMSEO\\KIMSEO\\frontend",
   "relativeAppDir": "frontend",
   "files": [
     ".next\\routes-manifest.json",

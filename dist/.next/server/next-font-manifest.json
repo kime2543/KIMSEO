@@ -1,52 +1,6 @@
 {
-  "app": {
-    "[project]/frontend/app/_not-found/page": [
-      "static/media/caa3a2e1cccd8315-s.p.16t1db8_9y2o~.woff2",
-      "static/media/797e433ab948586e-s.p.0.q-h669a_dqa.woff2",
-      "static/media/2a65768255d6b625-s.p.14by5b4al-y~f.woff2"
-    ],
-    "[project]/frontend/app/inquiry/page": [
-      "static/media/caa3a2e1cccd8315-s.p.16t1db8_9y2o~.woff2",
-      "static/media/797e433ab948586e-s.p.0.q-h669a_dqa.woff2",
-      "static/media/2a65768255d6b625-s.p.14by5b4al-y~f.woff2"
-    ],
-    "[project]/frontend/app/page": [
-      "static/media/caa3a2e1cccd8315-s.p.16t1db8_9y2o~.woff2",
-      "static/media/797e433ab948586e-s.p.0.q-h669a_dqa.woff2",
-      "static/media/2a65768255d6b625-s.p.14by5b4al-y~f.woff2"
-    ],
-    "[project]/frontend/app/profile/page": [
-      "static/media/caa3a2e1cccd8315-s.p.16t1db8_9y2o~.woff2",
-      "static/media/797e433ab948586e-s.p.0.q-h669a_dqa.woff2",
-      "static/media/2a65768255d6b625-s.p.14by5b4al-y~f.woff2"
-    ],
-    "[project]/frontend/app/view/[id]/page": [
-      "static/media/caa3a2e1cccd8315-s.p.16t1db8_9y2o~.woff2",
-      "static/media/797e433ab948586e-s.p.0.q-h669a_dqa.woff2",
-      "static/media/2a65768255d6b625-s.p.14by5b4al-y~f.woff2"
-    ],
-    "[project]/frontend/app/works/illustrations/page": [
-      "static/media/caa3a2e1cccd8315-s.p.16t1db8_9y2o~.woff2",
-      "static/media/797e433ab948586e-s.p.0.q-h669a_dqa.woff2",
-      "static/media/2a65768255d6b625-s.p.14by5b4al-y~f.woff2"
-    ],
-    "[project]/frontend/app/works/publishing/page": [
-      "static/media/caa3a2e1cccd8315-s.p.16t1db8_9y2o~.woff2",
-      "static/media/797e433ab948586e-s.p.0.q-h669a_dqa.woff2",
-      "static/media/2a65768255d6b625-s.p.14by5b4al-y~f.woff2"
-    ],
-    "[project]/frontend/app/works/samples/page": [
-      "static/media/caa3a2e1cccd8315-s.p.16t1db8_9y2o~.woff2",
-      "static/media/797e433ab948586e-s.p.0.q-h669a_dqa.woff2",
-      "static/media/2a65768255d6b625-s.p.14by5b4al-y~f.woff2"
-    ],
-    "[project]/frontend/app/works/webtoon/page": [
-      "static/media/caa3a2e1cccd8315-s.p.16t1db8_9y2o~.woff2",
-      "static/media/797e433ab948586e-s.p.0.q-h669a_dqa.woff2",
-      "static/media/2a65768255d6b625-s.p.14by5b4al-y~f.woff2"
-    ]
-  },
-  "appUsingSizeAdjust": true,
+  "app": {},
+  "appUsingSizeAdjust": false,
   "pages": {},
   "pagesUsingSizeAdjust": false
 }
